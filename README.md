@@ -11,7 +11,7 @@
          <dd>- Java, Python, NodeJS</dd>
          <dt>Frameworks or Technologies :</dt>
          <dd>- Spring Boot, Spring Security, Microservices,
-            MongoDB
+            MongoDB, Kafka, ElasticSearch
          </dd>
       </dl>
       <h2 align="center">📫 How to reach me </h2>
